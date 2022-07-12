@@ -1,6 +1,3 @@
-## 0.3.0
-* Migrate to null-safety
-
 ## 0.2.0
 * Recorder & Player can work simultaneously
 * Minor code refactor
